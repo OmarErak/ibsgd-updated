@@ -1,6 +1,6 @@
 # Code for On the Information Bottleneck Theory of Deep Learning
 
-Recently updated for Python 3, `tensorflow` 2.1.0, `keras` 2.3.1.
+Recently updated for Python 3, `tensorflow` 2.15.0, `keras` 2.13.1.
 
 Other requirements: `six`, `pathlib2`, `seaborn`.
 
